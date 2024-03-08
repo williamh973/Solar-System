@@ -3,43 +3,51 @@
         transform: rotate(360deg);
     }
 }
+
 @keyframes neptune {
     to {
         transform: rotate(360deg);
     }
 }
+
 @keyframes uranus {
     to {
         transform: rotate(360deg);
     }
 }
+
 @keyframes saturn {
-to {
-    transform: rotate(360deg);
+    to {
+        transform: rotate(360deg);
+    }
 }
-}
+
 @keyframes jupiter {
-to {
-    transform: rotate(360deg);
+    to {
+        transform: rotate(360deg);
+    }
 }
-}
+
 @keyframes mars {
-to {
-    transform: rotate(360deg);
+    to {
+        transform: rotate(360deg);
+    }
 }
-}
+
 @keyframes earth {
-to {
-    transform: rotate(360deg);
+    to {
+        transform: rotate(360deg);
+    }
 }
-}
+
 @keyframes venus {
-to {
-    transform: rotate(360deg);
+    to {
+        transform: rotate(360deg);
+    }
 }
-}
+
 @keyframes mercury {
-to {
-    transform: rotate(360deg);
-}
+    to {
+        transform: rotate(360deg);
+    }
 }
